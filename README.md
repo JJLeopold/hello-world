@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Chilling at my house.
+
+Literally Chilling.
+
+Its below zero outside.
